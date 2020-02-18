@@ -1,0 +1,91 @@
+*{
+    padding: 0px ;
+    margin: 0px ;
+    transform: all 2s ;
+}
+
+
+body {
+  font-family: "segoe ui light";
+    font-weight: 8px !important;
+    font-size: 22px !important;
+     letter-spacing: .1rem;
+     line-height: 1.313rem!important;
+}
+
+.row {
+    height: 100%;
+    width: 100%;
+}
+#Nav{
+    opacity: 80%;
+}
+.navbar {
+    height: 70px;
+}
+
+label{
+    font-size: 18px ;
+}
+h2{
+    font-size: 2.5rem !important;
+    text-shadow: 1px;
+    position: relative;
+}
+#best i {
+    font-size: 38px;
+}
+
+#VU {
+    height:450px ;
+    width: 100%;
+}
+#fill{
+    background-color: rgba(192,192,192,.8);
+
+}
+#Guide {
+    height: 750px;
+    width: 100%;
+    background-image: url("../images/smart-tv-3889141_1920.png");
+    background-size: 100% 100%;
+    
+}
+#Guide img,#VU img{
+    width: 100%;
+    height: 100%;
+}
+#Guide video{
+    width: 100%;
+    height: 93.5%;
+}
+.PM{
+    position: relative;
+}
+.Move{
+    position: absolute;
+    height: 100;
+    width: 100;
+    top: 10;
+    left: 10;
+}
+a {
+    text-decoration: none;
+}
+
+
+#VU i{
+    font-size: 75px;
+    font-weight: 100px;  
+    color: bisque;
+}
+
+.BK{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+
